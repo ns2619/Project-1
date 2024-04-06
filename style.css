@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Merriweather;
+    src: url(./Merriweather-Bold.woff2);
+}
+
 *{
     margin: 0;
     padding: 0;
@@ -12,7 +17,7 @@ html, body{
 #bg{
     height: 100%;
     width: 100%;
-    background-image: url(./vitaliy-Z_W6QfVmF9I-unsplash.jpg);
+    background-image: url(./vitaliy-Z_W6QfVmF9I-unsplash.webp);
     background-size: cover;
 }
 
